@@ -1,0 +1,26 @@
+# Ignorer les fichiers de compilation Java
+*.class
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les dossiers de build
+/bin/
+/build/
+
+# Ignorer les fichiers de configuration IDE
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers jar
+*.jar
+
+# Ignorer les fichiers de sauvegarde
+*.bak
+*.swp
